@@ -103,6 +103,11 @@ export const projects = [
     technologies: ["React.js", "Tailwind CSS", "API Integration", "JavaScript"],
     links: [
       {
+        type: "Website",
+        href: "https://easy-currency-convertor.netlify.app/",
+        icon: <Globe className="size-3" />,
+      },
+      {
         type: "Source",
         href: "https://github.com/abdurrehmanabbasi555/currency-convertor",
         icon: <Github className="size-3" />,
@@ -120,28 +125,16 @@ export const projects = [
     technologies: ["React.js", "Tailwind CSS", "Javascript"],
     links: [
       {
+        type: "Website",
+        href: "https://password-generator-555.netlify.app/",
+        icon: <Globe className="size-3" />,
+      },
+      {
         type: "Source",
         href: "https://github.com/abdurrehmanabbasi555/password-generator",
         icon: <Github className="size-3" />,
       },
     ],
-  },
-];
-
-export const education = [
-  {
-    school: "Karachi University, UBIT",
-    href: "https://www.uok.edu.pk/",
-    degree: "Bachelor’s in Software Engineering",
-    logoUrl: unilogo,
-    period: "2022 - Present",
-  },
-  {
-    school: "Khatoon-e-Pakistan College",
-    href: "https://www.facebook.com/KPIAN.Official/",
-    degree: "Intermediate",
-    logoUrl: kplogo,
-    period: "2019 - 2021",
   },
 ];
 
