@@ -1,6 +1,6 @@
-# 🌟 Personal Portfolio Website
+# 🌟 My Simple & Modern Portfolio Website
 
-A sleek and modern portfolio website built using **React** and **TailwindCSS** to showcase my skills, projects, and education.
+A super simple, sleek and modern portfolio website built using **React** and **TailwindCSS** to showcase my skills and projects.
 
 ---
 
@@ -64,20 +64,7 @@ portfolio/
 
 ---
 
-## 🤝 Contributions
+## 🤝 Feel Free To Collaborate On This Project
 
-I'd love your input! Here's how you can contribute:
-
-- 💡 **Found a Bug?** Open an issue with details.
-- ✨ **Have a Feature Idea?** Fork the repository and submit a PR.
-- 🌐 **Spread the Word:** Share this project with others.
-
----
-
-## ✨ Get in Touch
-
-- **Email:** bushranaeem941@gmail.com
-- **LinkedIn:** [Bushra Naeem](https://www.linkedin.com/in/bushra-naeem-5b9329246/)
-- **Instagram:** [Bushra Naeem](https://www.instagram.com/_.bushra.00/)
 
 Feel free to reach out for collaborations, feedback, or just to connect! 😊
