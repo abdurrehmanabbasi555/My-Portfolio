@@ -32,7 +32,7 @@ export default function Example() {
           </div>
           <div className="flex flex-1 items-center sm:items-stretch justify-between">
             <div className="flex shrink-0 items-center">
-              <a>
+              <a href="home">
               <img
           src={profile}
           alt="Profile"

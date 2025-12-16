@@ -1,5 +1,4 @@
 import React from "react";
-import profile from "./../assets/images/me-dark.png";
 import { DATA } from "../constants";
 import ResumeIcon from "../assets/icons/ResumeIcon";
 import resume from "../Resume.pdf";
