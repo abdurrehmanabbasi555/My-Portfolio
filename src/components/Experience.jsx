@@ -18,7 +18,7 @@ const Experience = () => {
           >
             <img
               src={exp.logoUrl}
-              alt="image"
+              alt="company logo"
               className="aspect-square h-full w-full object-contain"
             />
           </a>
